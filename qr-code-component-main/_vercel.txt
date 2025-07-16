@@ -1,0 +1,1 @@
+vc-domain-verify=qr-code-component.app,5777aabeed97f72034a1
