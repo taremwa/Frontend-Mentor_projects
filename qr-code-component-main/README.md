@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL:(https://github.com/taremwa/Frontend-Mentor_projects/tree/main/qr-code-component-main)
-- Live Site URL:(https://frontend-mentor-projects-bltk61wwt-markhs-projects.vercel.app/)
+- Live Site URL:(https://frontend-mentor-projects-rho-coral.vercel.app/)
 
 
 ### Built with
