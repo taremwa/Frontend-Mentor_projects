@@ -13,13 +13,10 @@
 
 ![](./qr-code.png)
 
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL:(https://github.com/taremwa/Frontend-Mentor_projects/tree/main/qr-code-component-main)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://frontend-mentor-projects-bltk61wwt-markhs-projects.vercel.app/)
 
 
 ### Built with
